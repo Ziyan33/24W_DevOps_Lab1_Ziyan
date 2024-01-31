@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyCoreApp-ZiyanLab1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1916ce94a8a3989c88eafeb83db1f7c492742328")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+579c6374be58c5611acd464fe02500312b709887")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyCoreApp-ZiyanLab1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyCoreApp-ZiyanLab1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
